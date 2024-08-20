@@ -263,7 +263,6 @@ a {
 .project-two > img {
   width: 100%;
   height: 235px;
-  object-fit: cover;
 }
 
 .project-links {
