@@ -333,7 +333,7 @@ a {
     justify-content: center;
     flex-direction: row;
     gap: 3rem;
-    width: 90%;
+    /* width: 90%; */
     margin-inline: 0;
   }
 
@@ -361,3 +361,5 @@ a {
     text-align: left;
   }
 }
+
+
