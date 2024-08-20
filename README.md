@@ -1,1 +1,1 @@
-Live link: https://porfolio-as-pow.vercel.app
+Live link: https://porfolio-as-pow.vercel.app/
