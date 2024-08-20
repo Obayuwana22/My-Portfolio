@@ -366,13 +366,12 @@ a {
   color: var(--blue-clr);
   font-weight: 800;
   font-size: 2rem;
+  margin-bottom: 20px;
 }
 
 .experience-content {
   margin-inline: 10px;
 }
-
-
 
 .experience-one,
 .experience-two,
