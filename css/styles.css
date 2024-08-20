@@ -250,7 +250,6 @@ a {
   text-transform: uppercase;
   margin-bottom: 20px;
   color: var(--orange-clr);
-  text-align: center;
 }
 
 .project-content {
@@ -314,6 +313,10 @@ a {
     display: flex;
     flex-direction: row;
     gap: 3rem;
+  }
+
+  .project-title {
+   text-align: center;
   }
 }
 
