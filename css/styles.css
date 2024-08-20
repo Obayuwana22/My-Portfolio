@@ -243,7 +243,6 @@ a {
   justify-content: center;
   align-items: center;
   margin-bottom: 10em;
-
 }
 
 .project-title {
@@ -259,7 +258,6 @@ a {
   flex-direction: column;
   gap: 3rem;
   margin-inline: 10px;
-  width: 10%;
 }
 
 .project-one,
@@ -329,7 +327,7 @@ a {
   width: 20px;
 }
 
-/* @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .Projects-container {
     display: flex;
     flex-direction: column;
@@ -369,4 +367,4 @@ a {
     font-size: 2rem;
     text-align: left;
   }
-} */
+}
