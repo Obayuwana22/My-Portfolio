@@ -9,7 +9,7 @@ openMenu.addEventListener("click", () => {
   closeMenu.classList.toggle("close-menu");
   openMenu.style.display = "none";
   navLinks.style.display = "block";
-  openMenu.classList.toggle("active");
+  // openMenu.classList.toggle("active");
 });
 
 closeMenu.addEventListener("click", () => {
