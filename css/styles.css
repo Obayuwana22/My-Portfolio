@@ -445,6 +445,11 @@ a {
 }
 
 @media screen and (min-width: 1024px) {
+  .contact-content{
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
   .contact-heading {
     font-size: 2.3rem;
   }
