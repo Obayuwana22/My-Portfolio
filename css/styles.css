@@ -278,6 +278,8 @@ a {
   color: var(--text-primary);
   margin-block: 10px;
   margin-inline: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 .project-one .project-description,
@@ -360,7 +362,7 @@ a {
 
 /* Experience section */
 
-.experience-deading {
+/* .experience-deading {
   text-align: center;
   text-transform: uppercase;
   color: var(--blue-clr);
@@ -432,7 +434,7 @@ a {
   .experience-content {
     width: 810px;
   }
-}
+} */
 
 /* Footer section */
 
